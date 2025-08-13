@@ -13,6 +13,6 @@ A simple calculator with functional buttons using plain html, css and javascript
 ---
 **NOTE**
 
-It works with almost all markdown flavours (the below blank line matters).
+This project has been created under GSSOC'25.
 
 ---
