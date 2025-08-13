@@ -9,5 +9,5 @@ A simple calculator with functional buttons using plain html, css and javascript
 </ol>
 <hr>
 <br>
-_NOTE:_ This application has been created for a project under Gssoc'25.
+> **_NOTE:_**  This application has been created for a project under Gssoc'25.
  
