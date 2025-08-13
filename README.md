@@ -9,6 +9,10 @@ A simple calculator with functional buttons using plain html, css and javascript
 </ol>
 <hr>
 <br>
+
 ---
-**NOTE:**  This application has been created for a project under Gssoc'25.
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
 ---
