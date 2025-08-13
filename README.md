@@ -10,5 +10,5 @@ A simple calculator with functional buttons using plain html, css and javascript
 <hr>
 <br>
 __
-**_NOTE:_**  This application has been created for a project under Gssoc'25.
+**NOTE:**  This application has been created for a project under Gssoc'25.
 __ 
